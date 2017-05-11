@@ -13,3 +13,6 @@
 ## スはスペックのス 【第 2 回】 RSpec on Rails (コントローラとビュー編)
 - http://magazine.rubyist.net/?0023-Rspec#l38
 - コントローラの責務の部分が非常に良い
+
+# ActiveRecord::Enum
+- http://api.rubyonrails.org/classes/ActiveRecord/Enum.html
